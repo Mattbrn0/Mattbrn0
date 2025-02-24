@@ -1,7 +1,6 @@
-## Hi there 👋
+## Bricman mathis - Web Developper 🚀
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Mattbrn0&show_icons=true&theme=dark)
-
 ![Langages utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattbrn0&layout=compact&langs_count=6&theme=dark)
 
 ### 🛠️ Technologies & Outils
